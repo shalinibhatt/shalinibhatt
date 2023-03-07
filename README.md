@@ -122,6 +122,15 @@ src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/
         width="40" height="40"
     /> 
  </a> 
+<!--  astro -->
+  <a 
+    href="https://git-scm.com/"
+    target="_blank" rel="noreferrer"> 
+    <img
+        src="https://raw.githubusercontent.com/github/explore/5cc0a03a302ec862c4aeac2a22a513ae31c35432/topics/astro/astro.png" alt="astro"
+        width="40" height="40"
+    /> 
+ </a> 
 
 <br>
 
