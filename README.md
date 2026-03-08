@@ -10,7 +10,7 @@ src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/
 
 - 🌱 I am a Frontend Web/Mobile App developer
 - 👯 I’m looking for something new or creating some project.
-- 🥅 2024 Goals: Contribute more to Open Source projects.
+- 🥅 2026 Goals: Go Crazy...
 - 🏆 I'm also having a great interest in competitive programming.
 - 🏸 Fun fact: I love to play Badminton.
 - 📫 How to reach me: shalinibhatt6263@gmail.com
